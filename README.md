@@ -21,10 +21,20 @@
  <li><a href="https://stillasfan.wixsite.com/progress-city-new">Progress City</a></li>
 </ul>
 
-<h4>Personal</h4>
+<h4>Personal - Websites</h4>
 <ul> 
 <li><a href="www.realestateoptics.com">Real Estate Optics</a></li>
 <li><a href="https://daeshawnballard.wixsite.com/website-7">Promucity The App</a></li>
 <li><a href="https://happy-keller-7ec8bf.netlify.app">My First React App</a></li>
+</ul>
+
+<h4>Personal - Apps</h4>
+<ul> 
+<li><a href="https://github.com/daeshawnballard/promucity">Party Rock App</a></li> 
+<li><a href="https://github.com/daeshawnballard/app-swoosh">Party Rock App</a></li> 
+<li><a href="https://github.com/daeshawnballard/tacopop">Party Rock App</a></li> 
+<li><a href="https://github.com/daeshawnballard/pokedex3">Party Rock App</a></li> 
+<li><a href="https://github.com/daeshawnballard/dreamlister">Dreamlister</a></li> 
+<li><a href="https://github.com/daeshawnballard/partyrock">Party Rock</a></li> 
 </ul>
 
