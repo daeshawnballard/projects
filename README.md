@@ -2,9 +2,9 @@
 <h3>Hi, this is a list of projects that I've taken on over the years.</h3>
 
 <h4>RCI Projects</h4>
-
 <ul> 
 <li><a href="https://www.riversidecenterforinnovation.com">Riverside Center For Innovation</a></li>
+<li><a href="https://diversify-pittsburgh-staging.herokuapp.com">Diversify Pittsburgh</a></li>
 <li><a href="https://daeshawnballard.wixsite.com/mysite-1">AeroTrip</a></li>
 <li><a href="https://daeshawnballard.wixsite.com/website-copy">J KoKo Hauling</a></li>
 <li><a href="https://daeshawnballard.wixsite.com/website-6">Natures Grooming</a></li>
@@ -18,20 +18,13 @@
 
 <h4>Progress City</h4>
 <ul>
-<li><a href="https://stillasfan.wixsite.com/progress-city-new">Progress City</a></li>
+ <li><a href="https://stillasfan.wixsite.com/progress-city-new">Progress City</a></li>
 </ul>
 
 <h4>Personal</h4>
 <ul> 
+<li><a href="www.realestateoptics.com">Real Estate Optics</a></li>
 <li><a href="https://daeshawnballard.wixsite.com/website-7">Promucity The App</a></li>
 <li><a href="https://happy-keller-7ec8bf.netlify.app">My First React App</a></li>
-<li><a href="www.google.com">Google</a></li>
-<li><a href="www.google.com">Google</a></li>
-<li><a href="www.google.com">Google</a></li>
-<li><a href="www.google.com">Google</a></li>
-<li><a href="www.google.com">Google</a></li>
-<li><a href="www.google.com">Google</a></li>
-<li><a href="www.google.com">Google</a></li>
-<li><a href="www.google.com">Google</a></li>
 </ul>
 
