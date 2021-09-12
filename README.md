@@ -30,10 +30,10 @@
 
 <h4>Personal - Apps</h4>
 <ul> 
-<li><a href="https://github.com/daeshawnballard/promucity">Party Rock App</a></li> 
-<li><a href="https://github.com/daeshawnballard/app-swoosh">Party Rock App</a></li> 
-<li><a href="https://github.com/daeshawnballard/tacopop">Party Rock App</a></li> 
-<li><a href="https://github.com/daeshawnballard/pokedex3">Party Rock App</a></li> 
+<li><a href="https://github.com/daeshawnballard/promucity">Promucity</a></li> 
+<li><a href="https://github.com/daeshawnballard/app-swoosh">Swoosh/a></li> 
+<li><a href="https://github.com/daeshawnballard/tacopop">Tacopop</a></li> 
+<li><a href="https://github.com/daeshawnballard/pokedex3">Pokedex</a></li> 
 <li><a href="https://github.com/daeshawnballard/dreamlister">Dreamlister</a></li> 
 <li><a href="https://github.com/daeshawnballard/partyrock">Party Rock</a></li> 
 </ul>
