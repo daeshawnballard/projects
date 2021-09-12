@@ -1,5 +1,5 @@
 # projects
-<h3>Hi, this is a list of projects that I've taken on over the years.</h3>
+<h3>This is a small list of the projects that I've worked on while employed or created for myself to learn and grow.</h3>
 
 <h4>RCI Projects</h4>
 <ul> 
